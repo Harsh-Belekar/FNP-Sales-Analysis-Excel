@@ -206,4 +206,9 @@ Through this project, I learned how to:
 
 ---
 
+## 🏷️ Topics
+Excel · Power Query · Power Pivot · Data Analysis · Dashboard · ETL · Data Modeling · Retail Analytics · Sales Insights · Business Intelligence
+
+---
+
 🔗 **Explore more projects:** [GitHub Profile → Harsh-Belekar](https://github.com/Harsh-Belekar)
