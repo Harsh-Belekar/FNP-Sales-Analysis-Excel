@@ -193,7 +193,7 @@ Through this project, I learned how to:
 - Business KPI & Trend Analysis  
 - Data Modeling with Relationships  
 - Pivot Table & DAX Measures  
-- Dashboard Design & Visualization 
+- Dashboard Design & Visualization
 
 ---
 
@@ -206,4 +206,4 @@ Through this project, I learned how to:
 
 ---
 
-⭐ *If you found this project insightful, don’t forget to star it on [GitHub!](https://github.com/Harsh-Belekar)*
+🔗 **Explore more projects:** [GitHub Profile → Harsh-Belekar](https://github.com/Harsh-Belekar)
