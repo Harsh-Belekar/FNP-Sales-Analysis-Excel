@@ -246,4 +246,4 @@ It reflects how retail companies track performance and optimize sales & marketin
 
 ---
 
-⭐ *If you found this project insightful, don’t forget to star it on [GitHub!](https://github.com/Harsh-Belekar)*
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
